@@ -27,9 +27,9 @@ def remove_punctuation(input):
 def connectDataBase():
 
     # Create a database connection object using psycopg2
-    DB_NAME = "CS4250CPP"
+    DB_NAME = "coupus"
     DB_USER = "postgres"
-    DB_PASS = "Capella@3288"
+    DB_PASS = "12345"
     DB_HOST = "localhost"
     DB_PORT = "5432"
 
